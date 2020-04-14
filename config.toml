@@ -1,0 +1,23 @@
+baseURL = "https://www.masterless.io/"
+theme = "m10c"
+languageCode = "en-us"
+title = "Masterless"
+
+[params]
+  secondTitle = "About"
+  author = "Elias"
+  description = "Software Engineer, working in Ireland. Interested in free software, workers autonomy and solidarity economy."
+
+[[params.social]]
+  name = "keybase"
+  url = "https://keybase.io/eliasjr"
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/era"
+[params.style]
+  darkestColor = "#d35050"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#fff"
