@@ -1,0 +1,4 @@
+[submodule "themes/m10c"]
+    path = themes/m10c
+    url = https://github.com/era/m10c.git
+
