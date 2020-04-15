@@ -9,7 +9,15 @@ title = "Masterless"
   description = "Software Engineer, working in Ireland. Interested in free software, worker's autonomy and solidarity economy."
 
 [[params.social]]
-  name = "keybase"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/"
+
+[[params.social]]
+  name = "mail"
+  url = "mailto:brtechie@protonmail.com"
+
+[[params.social]]
+  name = "inbox"
   url = "https://keybase.io/eliasjr"
 
 [[params.social]]
