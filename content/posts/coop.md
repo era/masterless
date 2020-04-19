@@ -26,9 +26,9 @@ And that’s the best part of most cooperatives, they are not lead by the greedy
 
 Not only resources with theory are shared, but pieces of code as well. [Coophub.io](https://coophub.io/) for example lists more than a thousand git repos from coop’s accounts in Github. 
 
-So till now, platform cooperativism has: (1) democracy, where all workers have the right to vote for all decisions; (2) the lack of desire to take over the world, but rather to help more people to optimise their community. In opposite to Silicon Valley, where at the best of the worlds we have (1) transparency, where capitalists tell workers why they are making decisions; (2) the “is not possible to ever win” ideology, where the company must grow and take over all the market.
+So till now, platform cooperativism has: (1) democracy, where all workers have the right to vote for all decisions; (2) the lack of desire to take over the world, but rather to help more people to optimise their community. In opposite to Silicon Valley, where at the best of the worlds we have (1) transparency, where capitalists tell workers why they made certain decisions; (2) the “is not possible to ever win” ideology, where the company must grow and take over all the market.
 
-But we can go beyond that if we consider the [solidarity economy principals](https://thenextsystem.org/learn/stories/solidarity-economy-building-economy-people-planet#principles):
+But we can go beyond that. If we consider the [solidarity economy principals](https://thenextsystem.org/learn/stories/solidarity-economy-building-economy-people-planet#principles):
 
 1. solidarity, cooperation, mutualism
 2. equity in all dimensions (e.g., race, ethnicity, nationality, class, and gender, etc.)
