@@ -26,4 +26,24 @@ And that’s the best part of most cooperatives, they are not lead by the greedy
 
 Not only resources with theory are shared, but pieces of code as well. [Coophub.io](https://coophub.io/) for example lists more than a thousand git repos from coop’s accounts in Github. 
 
-There’s no silver bullet against the Silicon Valley technology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around.
+So till now , platform cooperativism have: (1) democracy, where all workers have the right to vote for all decisions; (2) the lack of desire to take over the world, but rather to help more people to optimise their community. In opposite to Silicon Valley, where at the best of the worlds we have (1) transparency, where capitalists tell workers why they are taking decisions; (2) the “is not possible to ever win” ideology, where the company must grow and take over all the market.
+
+But we can go beyond that if we consider the [solidarity economy principals](https://thenextsystem.org/learn/stories/solidarity-economy-building-economy-people-planet#principles):
+
+1. solidarity, cooperation, mutualism
+2. equity in all dimensions (e.g., race, ethnicity, nationality, class, and gender, etc.)
+3. participatory democracy
+4. sustainability
+5. pluralism
+
+I honestly won’t even compare these principals with corporations one, because even “ownership” is a [leadership principal at Amazon](https://www.amazon.jobs/en/principles), but what they really mean is that you are responsible for anything that breaks, but not for the **profit ownership** or company decisions.
+
+The solidarity economy may not be better than Silicon Valley regarding profits, but it’s ethically superior, is able to deliver more value to communities and to provide a fair life for those working to make it possible (from the white-collar to the blue-collar worker).
+
+There’s no silver bullet against the Silicon Valley technology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around. You can and should collaborate to remove Silicon Valley powers.
+
+Besides the links already in the text, you can dive in with (not in any special order):
+- https://logicmag.io/failure/freedom-isnt-free/
+- https://p2pfoundation.net/infrastructure/our-guiding-principles
+- https://github.com/hng/tech-coops
+- https://unfound.coop/about/
