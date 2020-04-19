@@ -43,6 +43,7 @@ The solidarity economy may not be better than Silicon Valley regarding profits, 
 There’s no silver bullet against the Silicon Valley technology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around. You can and should collaborate to remove Silicon Valley powers.
 
 Besides the links already in the text, you can dive in with (not in any special order):
+
 - https://logicmag.io/failure/freedom-isnt-free/
 - https://p2pfoundation.net/infrastructure/our-guiding-principles
 - https://github.com/hng/tech-coops
