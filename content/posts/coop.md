@@ -40,6 +40,8 @@ But we can go beyond that. If we consider the [solidarity economy principals](ht
 
 I honestly won’t even compare these principals with corporations one, because even “ownership” is a [leadership principal at Amazon](https://www.amazon.jobs/en/principles), but what they really mean is that you are responsible for anything that breaks, but not for the **profit ownership** or company decisions.
 
+Cooperatives shouldn't profit as much as unicorns, the main reason is where those unicorns take profit from. Most of them use information as private property or generate value by making workers accept less for the same type of work they always performed. A good example of the first is Facebook, that sells information as private property to generate ads; the second is Uber that makes drivers accept all the risks of the work (car costs, health care, ...) while profiting from their labour.
+
 The solidarity economy may not be better than Silicon Valley regarding profits, but it’s ethically superior, is able to deliver more value to communities and to provide a fair life for those working to make it possible (from the white-collar to the blue-collar worker).
 
 There’s no silver bullet against the Silicon Valley technology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around. You can and should collaborate to remove Silicon Valley powers.
