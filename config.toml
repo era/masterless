@@ -21,6 +21,10 @@ title = "Masterless"
   url = "https://keybase.io/eliasjr"
 
 [[params.social]]
+  name = "gitlab"
+  url = "https://gitlab.com/masterless"
+
+[[params.social]]
   name = "github"
   url = "https://github.com/era"
 [params.style]
