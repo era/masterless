@@ -6,7 +6,7 @@ title = "Masterless"
 [params]
   secondTitle = "About"
   author = "Elias"
-  description = "Software Engineer, working in Ireland. Interested in free software, workplace autonomy and solidarity economy."
+  description = "Software Engineer, working in Ireland. Interested in software libre, workplace autonomy and solidarity economy."
 
 [[params.social]]
   name = "linkedin"
