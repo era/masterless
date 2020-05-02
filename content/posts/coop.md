@@ -44,7 +44,7 @@ Cooperatives shouldn't profit as much as unicorns, the main reason is where thos
 
 The solidarity economy may not be better than Silicon Valley regarding profits, but it’s ethically superior, is able to deliver more value to communities and to provide a fair life for those working to make it possible (from the white-collar to the blue-collar worker).
 
-There’s no silver bullet against the Silicon Valley technology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around. You can and should collaborate to remove Silicon Valley powers.
+There’s no silver bullet against the Silicon Valley ideology, but solidarity economy helps us to shape a more just world for all of us. Initiating a cooperative or working for a cooperative is not the only way to incentive it, we can and should prioritise those businesses while shopping or building our own hacks around. You can and should collaborate to remove Silicon Valley powers.
 
 Besides the links already in the text, you can dive in with (not in any special order):
 
