@@ -10,5 +10,5 @@ This will be a weird blog, I will avoid writing on it, I will instead spread as 
 
 The links will be mostly about workplace autonomy, cooperation, and solidarity.
 
-If you want to know more about myself you can check out my [cv](https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/) or talk to me using [keybase](https://www.keybase.io/eliasjr).
+If you want to know more about myself you can check out my [cv](https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/) or talk to me using [keybase](https://www.keybase.io/eliasjr). In very few words: I'm a software engineer currently living in Ireland, at the moment I work for Stripe, before that I was at AWS.
 

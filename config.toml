@@ -9,6 +9,10 @@ title = "Masterless"
   description = "Software Engineer, working in Ireland. Interested in software libre, workplace autonomy and solidarity economy."
 
 [[params.social]]
+  name = "rss"
+  url = "https://www.masterless.io/posts/index.xml"
+
+[[params.social]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/"
 
@@ -21,12 +25,9 @@ title = "Masterless"
   url = "https://keybase.io/eliasjr"
 
 [[params.social]]
-  name = "gitlab"
-  url = "https://gitlab.com/masterless"
-
-[[params.social]]
   name = "github"
   url = "https://github.com/era"
+
 [params.style]
   darkestColor = "#d35050"
   darkColor = "#212121"
