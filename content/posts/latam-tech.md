@@ -1,7 +1,7 @@
 ---
 title: How is the tech work in Brazil?
 date: 2020-05-05T07:48:24+01:00
-draft: true
+draft: false
 ---
 
 The current economic system is better for some countries than for others. When you are in the [rich north](https://en.wikipedia.org/wiki/North%E2%80%93South_divide), even as a worker, your chances in life are completely different than those in the south. Even software engineers that make a lot of money in the USA, Ireland, Germany, the UK, are not able to make those amounts in Brazil, Argentina, Venezuela. Software engineers in the north receive stocks, food, beers, good computers, and good salaries. Software engineers in the south work extra hours may receive more than the average worker and has little or nothing to say on what the company should do. The north has different ways to invest in innovations, while Brazil cuts scholarships of those trying to do anything.
