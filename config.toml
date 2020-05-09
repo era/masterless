@@ -1,9 +1,11 @@
 baseURL = "https://www.masterless.io/"
-theme = "m10c"
 languageCode = "en-us"
 title = "Masterless"
 
+theme = ["m10c", "webmonetization"]
+
 [params]
+  monetization = "$twitter.xrptipbot.com/elias_era"
   secondTitle = "About"
   author = "Elias"
   description = "Software Engineer, working in Ireland. Interested in software libre, workplace autonomy and solidarity economy."

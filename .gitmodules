@@ -2,3 +2,6 @@
     path = themes/m10c
     url = https://github.com/era/m10c.git
 
+[submodule "themes/webmonetization"]
+	path = themes/webmonetization
+	url = git@github.com:sabinebertram/hugo-webmonetization-component.git
