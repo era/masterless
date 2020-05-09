@@ -1,6 +1,6 @@
 ---
 title: How is the tech work in Brazil?
-date: 2020-05-05T07:48:24+01:00
+date: 2020-05-09T07:48:24+01:00
 draft: false
 ---
 
