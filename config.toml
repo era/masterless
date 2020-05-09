@@ -8,7 +8,7 @@ theme = ["m10c", "webmonetization"]
   monetization = "$twitter.xrptipbot.com/elias_era"
   secondTitle = "About"
   author = "Elias"
-  description = "Software Engineer, working in Ireland. Interested in software libre, workplace autonomy and solidarity economy."
+  description = "Software Engineer, working in Ireland. Interested in libre software, workplace autonomy and solidarity economy."
 
 [[params.social]]
   name = "rss"
