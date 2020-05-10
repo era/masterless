@@ -16,7 +16,7 @@ I was born in Brazil, I’ve been living in Ireland since 2015. I oppose intelle
 
 I do not believe in the scarcity of food, land, or education. I do believe the ruling class blocks access to most items so to create a pool of obedient workers. 
 
-The ruling class and hacker class do not share goals. Capitalists and workers have distinct goals. Capitalists need to restringe property to charge for it, being land, music, movies, software. Workers want to live, feel, be free. That’s why you will probably find me in rallies and demonstrations in Dublin or in São Paulo.
+The ruling class and hacker class do not share goals. Capitalists and workers have distinct goals. Capitalists need to restringe property to charge for it, being land, music, movies, software. Workers want to live, feel, be free. That’s why you will probably find me in anti-capitalist rallies and demonstrations in Dublin or in São Paulo.
 
 I’m a member of the [FSF](https://www.fsf.org/) and [IWW union](https://www.onebigunion.ie/). I support: [FSFE](https://fsfe.org/contribute/contribute.en.html), [Schools for Chiapas](https://schoolsforchiapas.org/donate/), [Cuba Solidarity Campaign](https://cuba-solidarity.org.uk/), [Movimento dos trabalhadores sem teto](https://www.catarse.me/colabore_mtst).
 
