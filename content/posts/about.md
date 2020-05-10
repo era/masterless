@@ -10,5 +10,13 @@ This will be a weird blog, I will avoid writing on it, I will instead spread as 
 
 The links will be mostly about workplace autonomy, cooperation, and solidarity.
 
-If you want to know more about myself you can check out my [cv](https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/) or talk to me using [keybase](https://www.keybase.io/eliasjr). In very few words: I'm a software engineer currently living in Ireland, at the moment I work for Stripe, before that I was at AWS.
+## Myself
+
+I was born in Brazil, I’ve been living in Ireland since 2015. I oppose intellectual property or the commodification of knowledge. You probably will find me either reading (fiction, non-fiction) or hacking something. I do love to hack, I may share some hacks in [GitHub](https://www.github.com/era) or [Gitlab](https://gitlab.com/masterless), although I would like to use more open tools for that. I do not trust corporations, remember when GitHub blocked [Iranian devs](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/)? Maybe one day they will do with Brazilians.
+
+I do not believe in the scarcity of food, land, or education. I do believe the ruling class blocks access to most items so to create a pool of obedient workers. 
+
+The ruling class and hacker class do not share goals. Capitalists and workers have distinct goals. Capitalists need to restringe property to charge for it, being land, music, movies, software. Workers want to live, feel, be free. That’s why you will probably find me in rallies and demonstrations in Dublin or in São Paulo.
+
+Feel free to chat with me using [keybase](https://www.keybase.io/eliasjr).
 
