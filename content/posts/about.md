@@ -18,5 +18,9 @@ I do not believe in the scarcity of food, land, or education. I do believe the r
 
 The ruling class and hacker class do not share goals. Capitalists and workers have distinct goals. Capitalists need to restringe property to charge for it, being land, music, movies, software. Workers want to live, feel, be free. That’s why you will probably find me in rallies and demonstrations in Dublin or in São Paulo.
 
+I’m a member of the [FSF](https://www.fsf.org/) and [IWW union](https://www.onebigunion.ie/). I support: [FSFE](https://fsfe.org/contribute/contribute.en.html), [Schools for Chiapas](https://schoolsforchiapas.org/donate/), [Cuba Solidarity Campaign](https://cuba-solidarity.org.uk/), [Movimento dos trabalhadores sem teto](https://www.catarse.me/colabore_mtst).
+
 Feel free to chat with me using [keybase](https://www.keybase.io/eliasjr).
+
+![](https://static.fsf.org/nosvn/associate/crm/642423.png)
 
