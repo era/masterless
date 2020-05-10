@@ -4,4 +4,4 @@
 
 [submodule "themes/webmonetization"]
 	path = themes/webmonetization
-	url = git@github.com:sabinebertram/hugo-webmonetization-component.git
+	url = https://github.com/era/hugo-webmonetization-component.git
