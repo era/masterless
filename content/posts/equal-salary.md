@@ -21,4 +21,5 @@ If you move to the Global South, things change. Let’s use the example of Brazi
 Seems like the cost of living in São Paulo is lower than Dublin if you only count renting and eating. If you add technical books, video-games, entertainment the costs are pretty similar. While these are all luxuries, I doubt the developers in the Global North would live without it. So why do those in the Global South should?
 
 [1] - Lyrics from [Titãs song](https://www.letras.mus.br/titas/91453/): “we don’t just want food, we want beverages, entertainment, and ballet”, the song tries to show that the people do not just want enough to survive, but live a good and fun life.
+
 [2]  - The minimum wage is 189,31 Euros.
