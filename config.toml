@@ -16,11 +16,7 @@ theme = ["m10c", "webmonetization"]
 
 [[params.social]]
   name = "mail"
-  url = "mailto:brtechie@protonmail.com"
-
-[[params.social]]
-  name = "inbox"
-  url = "https://keybase.io/eliasjr"
+  url = "mailto:the@communist.dev"
 
 [[params.social]]
   name = "github"
