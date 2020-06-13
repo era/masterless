@@ -15,10 +15,6 @@ theme = ["m10c", "webmonetization"]
   url = "https://www.masterless.io/posts/index.xml"
 
 [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/elias-de-oliveira-granja-junior-23a19020/"
-
-[[params.social]]
   name = "mail"
   url = "mailto:brtechie@protonmail.com"
 
