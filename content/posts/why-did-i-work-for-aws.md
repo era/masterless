@@ -1,7 +1,7 @@
 ---
 title: Why Did I Work for AWS
 date: 2020-06-16T06:54:48+01:00
-draft: true
+draft: false
 ---
 
 The year 2015 was a crazy year for me, it started with a great Foo Fighters show at Morumbi, and end up with me living in Ireland. Almost every year several teams from Amazon go to Brazil and other American countries to hire as many engineers as they can. They initially send a programming exercise by email, those who pass are invited to an interview (a whole day of interviews).
@@ -14,6 +14,6 @@ I was not sure if I wanted to move abroad. I love living in Brasil and although 
 
 I passed the interview, they called me and explained how much I would make. I thought I didn’t understand, I waited for the email with the numbers. It was true, I was going to make per year more money I thought I was ever going to be able to hold in my hands. I received a signing bonus (some money just because I was joining the company), some money to help to move (more money I ever had) and a lot of stocks. I got lucky, Amazon stocks were worth around 300 dollars when I joined the company. I was going to move to Seattle to work for Amazon retail. 
 
-For those who don’t know, the visa process to work in the USA is broken. They have a lottery to decide the applications they will look at. You have to provide all types of weird documents, like your college grades. In the end, I was not picked at the lottery.  Amazon called me, they said I could choose work for AWS in Dublin or Germany.  I picked Dublin. My girlfriend at the time was happier, she didn’t want to move to the USA, not even for a few months, but she really liked Europe. The offer was smaller, much less money per year, although the same bonuses and stocks.
+For those who don’t know, the visa process to work in the USA is broken. They have a lottery to decide the applications they will look at. You have to provide all types of weird documents, like your college grades. In the end, I was not picked at the lottery.  Amazon called me, they said I could choose work for AWS in Dublin or Germany.  I picked Dublin.  The offer was smaller, much less money per year, although the same bonuses and stocks. One big advantage though, life in Europe is better than in the USA. Better life-work balance, worker's rights, more secure (not only talking about crimes here, but I could change jobs much easier than with the USA visa rules).
 
 I had to wait 6 months to know I wasn’t going to move to Seattle, the whole process to live in Dublin took 2 months.
