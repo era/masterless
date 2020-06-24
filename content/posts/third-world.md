@@ -1,10 +1,10 @@
 ---
 title: Third World
-date: 2020-06-20T07:32:22+01:00
-draft: true
+date: 2020-06-24T07:32:22+01:00
+draft: false
 ---
 
-Today the term Third World has bad connotations, but it’s not the original meaning. [The word meant to classify those countries that were not under the USA imperialism or the Soviet Union influence during the Cold War.](https://en.wikipedia.org/wiki/Third_World) Countries there were trying to lead the world to a change, with its central principle as non-interference in other countries' domestic affairs. The USA made it clear it wasn’t going to allow this by overthrowing elected governments and installing dictatorships all over the planet, e.g. Brazil, Chile, Argentina, Guatemala. As a result of the USA interference, the movement failed to archive its main goal.
+Today the term Third World has bad connotations, but it’s not the original meaning. [The word meant to classify those countries that were not under the USA imperialism or the Soviet Union influence during the Cold War.](https://en.wikipedia.org/wiki/Third_World) Those Countries were trying to lead the world to a change, with its central principle as non-interference in other countries' domestic affairs. The USA made it clear it wasn’t going to allow this by overthrowing elected governments and installing dictatorships all over the planet, e.g. Brazil, Chile, Argentina, Guatemala. As a result of the USA interference, the movement failed to archive its main goal.
 
 According to The Jakarta Method, “the term “Third World”, was born in 1951 in France” but it only solidified the idea during the Konferensi Asia-Afrika. Quoting Wikipedia: “the conference's stated aims were to promote Afro-Asian economic and cultural cooperation and to oppose colonialism or neocolonialism by any nation”.
 
@@ -40,6 +40,10 @@ At the time, the USA was following the Rostow's stages of economic growth, who p
 
 The world started the Cold War divided in three: NATO, the Soviet Union and the Third World. The Third World vision was more realistic, without the black-and-white Yankee ideology. But it was suppressed by torture and assassinations. By the end of the Cold War, there was only one way, imposed by force.
 
-## Present
+The Third World was a term created to explain those countries not subjected to the NATO and Soviet Union will. Due to the Imperialist interferance, the idea of a third way died, and the Third World became associated only with poverty. The most important point “non-interference in other countries’ domestic affairs” was forgotten.  The Global South today is played by the Global North any time democracy starts to do something the USA will not be happy. [Bolivia just saw the right-wing assuming the power after OAS wrongly alleged frauds in the elections](https://www.aljazeera.com/news/2020/02/centre-evidence-fraud-bolivia-october-polls-200228052717538.html), [Venezuela is attacked financially by the USA-Europe](https://www.bbc.com/news/world-latin-america-52733299) and the USA insists in its illegal sanctions against Cuba. 
 
-Even the idea of a third way died, and the Third World became associated only with poverty. The most important point “non-interference in other countries’ domestic affairs” is forgotten and neocolonialism stays around. [Bolivia just saw the right-wing assuming the power after OAS wrongly alleged frauds in the elections](https://www.aljazeera.com/news/2020/02/centre-evidence-fraud-bolivia-october-polls-200228052717538.html), [Venezuela is attacked financially by the USA-Europe](https://www.bbc.com/news/world-latin-america-52733299) and the USA insists in its illegal sanctions against Cuba. Why was the Global North so scared of the Third World Countries union?
+Why was the Global North so scared of the Third World Countries union?
+
+
+## To know more
+- The Jakarta Method - Vincent Bevins
