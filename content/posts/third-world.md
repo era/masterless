@@ -31,3 +31,15 @@ But what I really would like to highlight from the conference is Sukarno’s spe
 > Yes, some parts of our nations are not yet free. That is why all of us cannot yet feel that journey’s end has been reached […]
 
 > And I beg of you, do not think of colonialism only in the classic form which we of Indonesia, and our brothers in different parts of Asia and Africa, knew. Colonialism has also its modern dress, in the form of economic control, intellectual control, actual physical control by a small alien community within the nation. It is a skilful and determined enemy, and it appears in many guises. It does not give up its loot easily. Wherever, whenever, and however it appears, colonialism is an evil thing, and one which must be eradicated from the earth. […]
+
+## The Cold War
+
+During the Cold War, the USA started hunting Communists. They saw everybody that did not align with their world view as Communists, including those countries of the Third World, whose primary mission was to develop a Capitalist society by developing its Industries and breaking down the land monopoly. Even the Indonesian President who was negotiating with the USA saw in his own country a rebellion supported by the CIA, just for making the horrible crime of being neutral.
+
+At the time, the USA was following the Rostow's stages of economic growth, who preached the “underdeveloped” countries needed the military to push them to become as developed as the USA. They started supporting the armies around the Third World, giving training and money, resulting in Dictatorships in America and Asia.
+
+The world started the Cold War divided in three: NATO, the Soviet Union and the Third World. The Third World vision was more realistic, without the black-and-white Yankee ideology. But it was suppressed by torture and assassinations. By the end of the Cold War, there was only one way, imposed by force.
+
+## Present
+
+Even the idea of a third way died, and the Third World became associated only with poverty. The most important point “non-interference in other countries’ domestic affairs” is forgotten and neocolonialism stays around. [Bolivia just saw the right-wing assuming the power after OAS wrongly alleged frauds in the elections](https://www.aljazeera.com/news/2020/02/centre-evidence-fraud-bolivia-october-polls-200228052717538.html), [Venezuela is attacked financially by the USA-Europe](https://www.bbc.com/news/world-latin-america-52733299) and the USA insists in its illegal sanctions against Cuba. Why was the Global North so scared of the Third World Countries union?
