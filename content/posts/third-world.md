@@ -36,7 +36,7 @@ But what I really would like to highlight from the conference is Sukarno’s spe
 
 During the Cold War, the USA started hunting Communists. They saw everybody that did not align with their world view as Communists, including those countries of the Third World, whose primary mission was to develop a Capitalist society by developing its Industries and breaking down the land monopoly. Even the Indonesian President who was negotiating with the USA saw in his own country a rebellion supported by the CIA, just for making the horrible crime of being neutral.
 
-At the time, the USA was following the Rostow's stages of economic growth, who preached the “underdeveloped” countries needed the military to push them to become as developed as the USA. They started supporting the armies around the Third World, giving training and money, resulting in Dictatorships in America and Asia.
+At the time, the USA was following the Modernization theory, who preached the “underdeveloped” countries needed the military to push them to become as developed as the USA. They started supporting the armies around the Third World, giving training and money, resulting in Dictatorships in America and Asia.
 
 The world started the Cold War divided in three: NATO, the Soviet Union and the Third World. The Third World vision was more realistic, without the black-and-white Yankee ideology. But it was suppressed by torture and assassinations. By the end of the Cold War, there was only one way, imposed by force.
 
