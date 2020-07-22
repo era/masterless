@@ -1,7 +1,7 @@
 ---
 title: Why Did I Work for AWS
 date: 2020-06-16T06:54:48+01:00
-draft: false
+draft: true
 ---
 
 The year 2015 was a crazy year for me, it started with a great Foo Fighters show at Morumbi, and end up with me living in Ireland. Almost every year, several teams from Amazon go to Brasil and other American countries to hire as many engineers as they can. They initially send a programming exercise by email, those who pass are invited to an interview (a whole day of it).
