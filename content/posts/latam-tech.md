@@ -20,7 +20,7 @@ Regarding innovation, according to the [Global Innovation Index - 2019](https://
 
 ## My own experience
 
-I started working with tech when I was 17 years old. I was in my first year at college and I got a job as a PHP developer. I built websites. It was a time where even using jQuery was polemic and people would avoid it, writing everything by hand (making it work at IE 6). My salary was around 700 BRL or 112.20 EUR per month. My second job, one year after this one, was at a big software factory. 
+I started working with tech when I was 17 years old. I was in my first year at college and I got a job as a PHP developer. I built websites. It was a time where even using jQuery was polemic and people would avoid it. My salary was around 700 BRL or 112.20 EUR per month. My second job, one year after this one, was at a big software factory. 
 
 My salary was not much different, around 1000 BRL, but my main goal was to build e-commerce/websites for J&J that was outsourcing this to Brasil and India. One day J&J decided to move all the development to India and the company relocated me to a financial project. I started to work with java, building a huge system for a Brazilian bank. My salary did not improve, although the software I was written was responsible for millions of Reais (BRL).
 
@@ -40,7 +40,7 @@ I don’t want to focus only on the bad things. The people I worked with were am
 
 Anyway, the point is, how we are expect to innovate if we barely have time to sleep?
 
-My main way to learn was going to conferences, there were a lot of community driven conferences in Brazil. I tried to go to most in my city and sometimes I would go to some outside my state, like the BrazilJS. It was a very collective way of learning, I and my friends would discuss the talks after it and we would discover whole new worlds. Those were the moments where I felt like I could write something meaningful, the next days after a conference was always very productive, where I would find some minutes in my day to commit a lot of code.
+My main way to learn was going to conferences, there were a lot of community driven conferences in Brazil. I tried to go to most in my city and sometimes I would go to some outside my state, like the BrazilJS. It was a very collective way of learning, I and my friends would discussed the talks after it and we would discover whole new worlds. Those were the moments where I felt like I could write something meaningful, the next days after a conference was always very productive, where I would find some minutes in my day to commit a lot of code.
 
 But at that time we missed one thing. Those conferences were great, but we were not talking about the elephant in the room. Brazil have a lot of inequalities and those events were not addressing it. I get it, it’s a tech conf. But how can a conference about Libre Software not talk about copyleft? Inclusion? Social issues? I always felt Libre Software movement was made by people excluded from the system, people that could not afford fancy private software, that did not had the luxury of attending fancy colleges. Though, nothing of this was ever dressed in those talks…
 
