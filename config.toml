@@ -13,10 +13,14 @@ theme = ["m10c", "webmonetization"]
 [[params.social]]
   name = "rss"
   url = "https://www.masterless.io/posts/index.xml"
-
+  
 [[params.social]]
   name = "mail"
   url = "mailto:the@communist.dev"
+
+[[params.social]]
+  name = "plus-square"
+  url = "https://wiki.anarchist.work"
 
 [[params.social]]
   name = "github"
