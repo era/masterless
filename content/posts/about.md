@@ -12,11 +12,11 @@ The links will be mostly about workplace autonomy, cooperation, and solidarity.
 
 ## Myself
 
-I was born in Brazil, I’ve been living in Ireland since 2015. I oppose intellectual property or the commodification of knowledge. You probably will find me either reading (fiction, non-fiction) or hacking something. I do love to hack, I may share some hacks in [GitHub](https://www.github.com/era) or [Gitlab](https://gitlab.com/masterless), although I would like to use more open tools for that. I do not trust corporations, remember when GitHub blocked [Iranian devs](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/)? Maybe one day they will do with Brazilians.
+I was born in Brazil, I’ve been living in Ireland since 2015. I oppose intellectual property or the commodification of knowledge. You probably will find me either reading (fiction, non-fiction) or hacking something. I do love to hack, I may share some hacks in [GitHub](https://www.github.com/era) or [Gitlab](https://gitlab.com/masterless), although I would like to use more open tools for that. I do not trust corporations, remember when GitHub blocked [Iranian devs](https://techcrunch.com/2019/07/29/github-ban-sanctioned-countries/)? Maybe one day they will do with Brasilians.
 
 I’m a member of the [FSF](https://www.fsf.org/) and [IWW union](https://www.onebigunion.ie/). I support: [FSFE](https://fsfe.org/contribute/contribute.en.html), [Schools for Chiapas](https://schoolsforchiapas.org/donate/), [Cuba Solidarity Campaign](https://cuba-solidarity.org.uk/), [Movimento dos trabalhadores sem teto](https://www.catarse.me/colabore_mtst).
 
-Feel free to chat with me using [keybase](https://www.keybase.io/eliasjr).
+Still curious about me? Check my [personal wiki entry](https://wiki.anarchist.work/personal/me).
 
 ![](https://static.fsf.org/nosvn/associate/crm/642423.png)
 
