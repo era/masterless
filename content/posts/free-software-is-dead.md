@@ -1,7 +1,7 @@
 ---
 title: "Free Software is dead"
 date: 2020-11-14T21:51:42Z
-draft: true
+draft: false
 ---
 
 >For me, the best parts of the open-source movement were always the remnants of the “free software movement” from which it evolved. During the early days of the movement in the 1980s, best captured by Richard Stallman’s book Free Software, Free Society, there were no corporate conferences featuring branded lanyards and sponsored lunches. Instead, it was all about challenging the property rights that had granted software companies so much power in the first place. Stallman himself was possibly the movement’s best-known evangelist, traveling around the world to preach about software freedom and the evils of applying patent law to code. - [Freedom isn't free](https://logicmag.io/failure/freedom-isnt-free/)
