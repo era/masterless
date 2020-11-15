@@ -1,6 +1,6 @@
 ---
 title: "Free Software is dead"
-date: 2020-11-14T21:51:42Z
+date: 2020-11-15T16:30:42Z
 draft: false
 ---
 
