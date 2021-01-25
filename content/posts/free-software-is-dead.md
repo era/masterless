@@ -16,7 +16,7 @@ Working for Big Tech kept my mind busy with other stuff.  It's harder to evaluat
 
 Even though I was not publicly speaking much about Free Software, deep down I always hopped to work in a place like Mozilla [6], they seemed to be doing some good without exploiting the users or the engineers. But [the big Mozilla's layoff happened](https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus) and I didn't know how to digest the news. It seemed like Capitalism had killed Free Software. This was especially bad since the executives from Mozilla were still making a lot of money [7]. Not that reducing their salaries would save the company, but what about a political gesture?
 
-It was literally the end of an era and some people called it on [8,9,10], F/OSS (free and open source software) is dead [11]. A lot of people on the social networks didn't know what would happen next.
+I believe it's literally the end of an era and some people called it on [8,9,10], F/OSS (free and open source software) is dead [11].
 
 Though, the real question is: what should we do? And I really mean we, not the rockstar engineers, you and me, the average engineer. Our king is in check, how we save him and win this game? I don't have a clue, the only thing I know is that we should learn from our mistakes. Expecting capitalist companies to do the right thing is stupid. Acting individually is not enough, acting as a guild is not enough. We need to think as a class [12].
 
