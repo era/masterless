@@ -1,0 +1,14 @@
+---
+title: “The big tech companies“
+date: 2020-04-25T08:25:05+01:00
+draft: true
+---
+Tech workers face a conflicting environment, while there’s not a single individual who can say “I built this”, since frameworks, languages, OS, and all required libraries are made by collectives, yet tech companies force us to be the hero. Engineers working long hours because they associate their sacrifice with their value. Work more, delivery more, make those GUYS richer. You are important, look how much money have you made them.
+
+We live in a sad society, status and competition are everywhere. More experienced developers judge and hurt young engineers. Code reviews became big ego fights. We are locked inside our houses, yet, companies keep asking how productive we are, how can we produce more, mailing us on how good they are doing. “Hey look, the world is shit right now, but the online markets growing”. People are told to celebrate. More people are buying online, more people are joining the social network. Business is great, thanks to you all. “We haven’t forgotten all those people dying, it’s just positive messages”. Yeah, right.
+
+We are told the money we are paid increases directly with the knowledge we acquire. So we spend more and more time learning, we don’t have time to help others. [In some companies](https://sites.google.com/site/thefaceofamazon/home), [the incentive to not help your colleagues is so great that people sabotage each other’s projects so they look better](https://sites.google.com/site/thefaceofamazon/home/stack-rank-then-yank).
+
+Even little better companies use [“meritocracy”](https://www.fastcompany.com/40510522/meritocracy-doesnt-exist-and-believing-it-does-is-bad-for-you) as a way to “compensate” the workers.  Creating a rush for important projects, for being the first to jump into new things, while not considering the wishes of colleagues, personal issues or even the users need. You have a constant dystopia where people must be nice (especially during the review time) and keep reminding everybody what they have built in the past in the hopes some breadcrumbs will fall from the masters' table. Although helping others is seeing as a good thing in those companies, no one is really rewarded for spending too much time helping and not “delivering”.
+
+The big tech env is a big “delivery till you die”. Some companies fantasied about it in nice little stories. We are told we are amazonians, googlers. We are told we are the company. People are told to celebrate any surplus increase, in a very nationalistic manner. Oncall becomes a "war", you a soldier. Woke up 3 AM? Nice for you, thank you freedom fighter!
