@@ -26,7 +26,7 @@ The trade war actually pushed China to [speed up its plan to stop depending on f
 
 China is also helping several countries with vaccines for Covid19, which will probably open their market to Chinese companies. USA that is used to use force in order to control developing countries [is lost on what to do next](https://www.nbcnews.com/news/world/russia-china-are-beating-u-s-vaccine-diplomacy-experts-say-n1262742). It could be that those countries will follow a Chinese block regarding tech.
 
-Historically when USA saw a possibility of losing its power, they installed dictatorships, dropped bombs and pushed embargo against those who refuse to follow their orders. All this is harder to justify against China.
+Historically when USA saw the possibility of losing its power, they installed dictatorships, dropped bombs and pushed embargo against those who refuse to follow their orders. All this is harder to justify against China.
 
 China hasn't won this Cold War initiated by the USA, but they are the favorite.
 
