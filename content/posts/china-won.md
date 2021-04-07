@@ -35,6 +35,6 @@ Historically when USA saw the possibility of losing its power, they installed di
 China hasn't won this Cold War initiated by the USA, but they are the favorite. The way China does business means victory also for developing countries.
 
 
-[1]- Of course, everything depends on which metric you are watching.
+[1]- Of course, everything depends on which metric you are watching. Here I'm considering PPP Adjusted GDP.
 
 [2] - Opposed to something like the Brazilian minimum wage where the minimum wage is the same for the whole country, even though São Paulo and Acre will have pretty different cost of living.
