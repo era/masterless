@@ -28,7 +28,7 @@ The semiconductor war waged by USA against China is also related with AI. Our co
 
 The trade war actually pushed China to [speed up its plan to stop depending on foreigner companies](https://www.eastasiaforum.org/2021/02/22/china-chases-semiconductor-self-sufficiency/). There is the possibility on we living very soon in a world with two main semiconductor technology: NATO and China. 
 
-China is also helping several countries with vaccines for Covid19, which will probably open their market to Chinese companies. USA that is used to use force in order to control developing countries [is lost on what to do next](https://www.nbcnews.com/news/world/russia-china-are-beating-u-s-vaccine-diplomacy-experts-say-n1262742). It could be that those countries will follow a Chinese block regarding tech.
+China is also helping several countries with vaccines for Covid19[^vaccine], which will probably open their market to Chinese companies. USA that is used to use force in order to control developing countries [is lost on what to do next](https://www.nbcnews.com/news/world/russia-china-are-beating-u-s-vaccine-diplomacy-experts-say-n1262742). It could be that those countries will follow a Chinese block regarding tech.
 
 Historically when USA saw the [possibility of losing its power](https://en.wikipedia.org/wiki/Anti-Japanese_sentiment_in_the_United_States), they installed dictatorships, dropped bombs and pushed embargo against those who refuse to follow their orders. All this is harder to justify against China. [Not that they are not trying to provoke China to strike first](https://edition.cnn.com/2021/03/27/politics/us-war-game-russia-china/index.html).
 
@@ -38,3 +38,5 @@ China hasn't won this Cold War initiated by the USA, but they are the favorite. 
 [^metric]: Of course, everything depends on which metric you are watching. Here I'm considering PPP Adjusted GDP.
 
 [^salary]: Opposed to something like the Brazilian minimum wage where the minimum wage is the same for the whole country, even though São Paulo and Acre will have pretty different cost of living.
+
+[^vaccine]: [China is helping several countries, while the Global North sits on unused vaccines](https://www.qiaocollective.com/en/articles/vaccine-internationalism)
