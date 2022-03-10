@@ -1,5 +1,5 @@
 ---
-title: “Individualism and the incentives of tech companies“
+title: Individualism and the incentives of tech companies
 date: 2022-03-10T06:25:05+01:00
 draft: false
 ---
