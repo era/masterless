@@ -4,7 +4,7 @@ date: 2022-03-10T06:25:05+01:00
 draft: false
 ---
 
-This text has been in my draft box for a long while. It was written around 25/04/2020. A moment in my life where I was passing working with a really bad manager who used threat as motivation, in the middle of covid19, doing crazy oncalls with tickets almost every night not allowinng me to sleep properly and taking depression/anxiety medication. On top of all that, "I had to perform".
+This text has been in my draft box for a long while. It was written around 25/05/2021. A moment in my life where I was passing working with a really bad manager who used threat as motivation, in the middle of covid19, doing crazy oncalls with tickets almost every night not allowinng me to sleep properly and taking depression/anxiety medication. On top of all that, "I had to perform".
 
 Now that passed, I'm working in a company that does not use the motivation written here (but another type). Rereading the text, I still find some truth around it, although it is clear the bitness of the moment on the writing.
 
