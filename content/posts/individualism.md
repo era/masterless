@@ -10,7 +10,7 @@ Now that passed, I'm working in a company that does not use the motivation writt
 
 I was not sure if I should publish this, but I think all the anger in it may be helpful for someone passing through a similar situation. You are not alone.
 
-The text:
+The (never finished) text:
 
 Tech workers face a conflicting environment, while there's not a single individual who can say "I built this" since frameworks, languages, OS, and all required libraries are made by collectives. Yet, tech companies force us to be the hero. Engineers work long hours because they associate their sacrifice with their value. Work more, deliver more, make those GUYS richer. You are important, look how much money have you made them.
 
