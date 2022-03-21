@@ -14,4 +14,4 @@ The hard truth is that some companies only donate for PR reasons and to incentiv
 
 Let's focus on that company, we have their employees making ~20 thousand dollars (+ health care and other things) per month doing a similar work of the engineer building the open-source library. Their donation is 3 thousand dollars. The engineer has to respect SLAs to solve open issues and build the features they want. In the end of the day, isn't this a normal work relationship without any of the rights people died for, but with almost all the duties? Are they using open-source as an excuse to worse our rights?
 
-Once I read a woman asking people to stop congratulating men for doing the basic, maybe is time for us to do the same with their companies? You won't hear me talking on twitter how amazing company X is for donating (probably with a lot of strings) to an open-source project.
+Once I read a tweet by a woman asking people to stop congratulating men for doing the basic, maybe is time for us to do the same with their companies? You won't hear me talking on twitter how amazing company X is for donating (probably with a lot of strings) to an open-source project.
