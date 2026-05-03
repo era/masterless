@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/eliasjr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.masterless.io
+  * I am eliasjr (https://keybase.io/eliasjr) on keybase.
+  * I have a public key ASBYTJcdTk47ezXluoT3POi7xCKg83H0CzceeVn9dHy0Hgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120584c971d4e4e3b7b35e5ba84f73ce8bbc422a0f371f40b371e7959fd747cb41e0a",
+      "host": "keybase.io",
+      "kid": "0120584c971d4e4e3b7b35e5ba84f73ce8bbc422a0f371f40b371e7959fd747cb41e0a",
+      "uid": "15cd10aff3616a40d425306f4ba3b519",
+      "username": "eliasjr"
+    },
+    "merkle_root": {
+      "ctime": 1586932184,
+      "hash": "0cfa2c00a54f653ffe15cb82e6794cabfd1a0ed0114be1374164dc60cfb9672c73bff2999281ec5c1b4eaf5f5d88037a719a4dd55420775eb6fa95585d26d374",
+      "hash_meta": "5aca3831daef89765c5cb4905a4da695b9587a0e5abe4cc75bc873580df2aeec",
+      "seqno": 15926153
+    },
+    "service": {
+      "entropy": "svQwBUOzsmcruEV0GdtLqvir",
+      "hostname": "www.masterless.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1586932201,
+  "expire_in": 504576000,
+  "prev": "e1333300a8167ddf60a815db902a310585abc71bc1053780658b016e233eb1c1",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWEyXHU5OO3s15bqE9zzou8QioPNx9As3HnlZ/XR8tB4Kp3BheWxvYWTESpcCD8Qg4TMzAKgWfd9gqBXbkCoxBYWrxxvBBTeAZYsBbiM+scHEIOCan8lY13cVwEX2pcpwLSaUpO6HGA3i/xgLx0JCtQOjAgHCo3NpZ8RAsrWT8e2/Ox8iX+wBWZNGPhc3jhmSSIIrX11pLbP5CwFPrjSaPyi5sOMNwuekBeN5Y8E6Ex5LMxISNlPlAB+CDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINipgqqEeNnrLkNYoDLBq05pxFTDHk4o29IsX0eSONhco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eliasjr
+
+==================================================================
